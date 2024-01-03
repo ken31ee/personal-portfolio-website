@@ -69,22 +69,22 @@ export default function Header() {
         <ul className={navCombinedClasses}>
           <li>
             <a href="#" onClick={onNavItemClicked}>
-              // Home
+              {"// Home"}
             </a>
           </li>
           <li>
             <a href="#Expertise" onClick={onNavItemClicked}>
-              // Expertise
+              {"// Expertise"}
             </a>
           </li>
           <li>
             <a href="#Projects" onClick={onNavItemClicked}>
-              // Projects
+              {"// Projects"}
             </a>
           </li>
           <li>
             <a href="#Contact" onClick={onNavItemClicked}>
-              // Contact
+              {"// Contact"}
             </a>
           </li>
         </ul>
