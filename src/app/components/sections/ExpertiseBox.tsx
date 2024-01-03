@@ -1,6 +1,6 @@
 import { twMerge } from "tailwind-merge";
 
-export default function (
+export default function ExpertiseBox(
   props: React.PropsWithChildren<{
     firstLineTitle: string;
     secondLineTitle: string;
