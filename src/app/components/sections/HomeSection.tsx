@@ -1,6 +1,6 @@
 export default function HomeSection() {
   return (
-    <section className="bg-hero-pattern box-border h-screen w-full bg-cover bg-center p-24">
+    <section className="bg-home-bg box-border h-screen w-full bg-cover bg-center p-24">
       <div className="flex h-full flex-col flex-wrap content-center items-center justify-center text-white">
         <div className="w-full font-mono text-8xl font-semibold tracking-wide [text-shadow:_1px_3px_11px_rgba(0,0,0,0.3)]">
           KEN TUNG

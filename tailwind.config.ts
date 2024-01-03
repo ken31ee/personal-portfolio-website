@@ -13,7 +13,8 @@ const config: Config = {
     },
     extend: {
       backgroundImage: {
-        "hero-pattern": "linear-gradient(to bottom,#00000000 80%,black 100%), url(/bg.jpg)",
+        "home-bg": "linear-gradient(to bottom,#00000000 80%,black 100%), url(/bg.jpg)",
+        "code-bg": "radial-gradient(rgba(0,0,0,0.4) 0%, black 70%), url(/code-bg.jpg)",
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",

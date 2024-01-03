@@ -1,2 +1,6 @@
 export {default as HomeSection} from './HomeSection'
 export {default as ExpertiseSection} from './ExpertiseSection'
+export {default as ExpertiseBox} from './ExpertiseBox'
+export {default as ProjectSection} from './ProjectSection'
+export {default as ProjectItem} from './ProjectItem'
+export {default as ContactSection} from './ContactSection'

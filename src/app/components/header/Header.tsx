@@ -22,7 +22,7 @@ export default function Header() {
   }, []);
 
   const headerBaseClasses =
-    "fixed z-10 px-4 flex h-24 w-full items-center justify-between backdrop-blur font-mono text-sm transition-all duration-200 md:px-12";
+    "fixed z-30 px-4 flex h-24 w-full items-center justify-between backdrop-blur font-mono text-sm transition-all duration-200 md:px-12";
 
   const headerCombinedClasses = twMerge(
     headerBaseClasses,
