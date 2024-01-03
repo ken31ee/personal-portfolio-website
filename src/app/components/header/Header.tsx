@@ -46,8 +46,9 @@ export default function Header() {
 
   return (
     <header className={headerCombinedClasses}>
-      <div className="h-12 origin-left font-mono text-2xl text-white transition duration-200">
-        KenTung.Dev
+      <div className="h-12 origin-left font-mono text-4xl font-bold tracking-[-0.08em] text-white transition duration-200">
+        <span className="text-cyan-400">KenTung</span>.
+        <span className="text-amber-400">dev</span>
       </div>
       <nav>
         <button className="md:hidden" onClick={onNavButtonClicked}>
