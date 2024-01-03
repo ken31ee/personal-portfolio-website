@@ -4,7 +4,7 @@ export default function ProjectSection() {
   return (
     <section
       id="Projects"
-      className="z-10 box-border w-full p-8 text-white md:p-24"
+      className="z-10 box-border w-full p-8 text-white md:p-24 xl:p-72"
     >
       <div className="mb-8 w-full font-mono text-6xl font-semibold [text-shadow:_1px_3px_11px_rgba(0,0,0,0.3)] md:mb-8">
         Projects

@@ -2,7 +2,7 @@ export default function ContactSection() {
   return (
     <section
       id="Contact"
-      className="z-10 box-border w-full bg-gray-800 p-8 text-white md:p-20"
+      className="z-10 box-border w-full bg-gray-800 p-8 text-white md:p-24 xl:px-72"
     >
       <div className="w-full text-left font-mono text-2xl font-semibold">
         <ul>
