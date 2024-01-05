@@ -25,7 +25,7 @@ export default function ExpertiseSection() {
           color="amber"
           firstLineTitle="Frontend Dev"
           secondLineTitle="React, NextJS"
-          description="Passionate about UI/UX. Over 6 years of development experience in HTML, CSS, JS, React frameworks."
+          description="Passionate about UI/UX. Over 6 years of development experience in HTML, CSS, JS, React.js frameworks."
         >
           <RiReactjsLine size="3rem" />
         </ExpertiseBox>
