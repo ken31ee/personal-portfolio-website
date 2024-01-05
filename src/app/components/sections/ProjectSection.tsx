@@ -24,7 +24,7 @@ export default function ProjectSection() {
         />
         <ProjectItem
           size="normal"
-          imageSrc="https://tamalsen.dev/wp-content/uploads/2021/10/walkerip-com-poster.jpg"
+          imageSrc="/speech.webp"
           projectName="Fano Speech API"
           description="Powerful Speech AI Engine"
         />
